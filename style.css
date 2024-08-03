@@ -4,7 +4,7 @@
     font-style: normal;
 }
 body{
-    
+    background-color: rgb(255, 255, 255);
     margin:0px;
 }
 
@@ -59,8 +59,9 @@ main{
 }
 
 #logo{
-    padding-top:18vh;
-    height: 92px;
+    padding-top:10vh;
+    height: 180px;
+  
     
     
 }
