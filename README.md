@@ -3,7 +3,7 @@ Como ejercicio práctico, sencillo y para mejorar mis habilidades en desarrollo 
 [Proyecto Desplegado (https://portafolio-umber-alpha.vercel.app/)](https://clon-google-zeta.vercel.app/)
 
 ## Vista
-![clon](imagenes/Google.png)
+![clon](assents/Google.png)
 
 ## Tecnologías
 * HTML
